@@ -13,8 +13,6 @@ dependencies {
 
     compile "com.heroku.sdk:heroku-jdbc:0.1.1"
     
-    compile "org.slf4j:slf4j-simple:1.7.9"
-
     // Test dependencies
     testImplementation 'junit:junit:4.12'
 }
